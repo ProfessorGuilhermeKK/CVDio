@@ -1,0 +1,12 @@
+  <section>
+            <button>Skills</button>
+            <div>
+                <h3>Habilidades Profissionais:</h3>
+                <ul>
+                    <li><img src="assets/hab/react.svg" alt="react"></li>
+                    <li><img src="assets/hab/python.svg" alt="python"></li>
+                    <li><img src="assets/hab/net.svg" alt="net"></li>
+                    <li><img src="assets/hab/java.svg" alt="java"></li>
+                </ul>
+            </div>
+        </section>
